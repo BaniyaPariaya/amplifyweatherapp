@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/weather": {
+      "name": "/weather",
+      "lambdaFunction": "amplifyweatherapilambda",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

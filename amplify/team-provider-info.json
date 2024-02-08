@@ -1,0 +1,27 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifyweatherapp-dev-194536-authRole",
+      "UnauthRoleArn": "arn:aws:iam::815385542293:role/amplify-amplifyweatherapp-dev-194536-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::815385542293:role/amplify-amplifyweatherapp-dev-194536-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-amplifyweatherapp-dev-194536-deployment",
+      "UnauthRoleName": "amplify-amplifyweatherapp-dev-194536-unauthRole",
+      "StackName": "amplify-amplifyweatherapp-dev-194536",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:815385542293:stack/amplify-amplifyweatherapp-dev-194536/abd1f830-c64d-11ee-8d7c-06910f00e981",
+      "AmplifyAppId": "d226s0fq7xrag2"
+    },
+    "categories": {
+      "function": {
+        "amplifyweatherapilambda": {
+          "openWeatherMapApiKey": "485fda41b822facb6173da17a2be72f7",
+          "deploymentBucketName": "amplify-amplifyweatherapp-dev-194536-deployment",
+          "s3Key": "amplify-builds/amplifyweatherapilambda-68734c70513759716373-build.zip"
+        }
+      },
+      "api": {
+        "amplifyweatherapi": {}
+      }
+    }
+  }
+}
